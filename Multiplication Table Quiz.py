@@ -1,4 +1,5 @@
 import random
+print("Made by SHODUN")
 while True:
     list1=[3,4,6,7,8,9,-3,-4,-6,-7,-8,-9]
     list2=[3,4,6,7,8,9,-3,-4,-6,-7,-8,-9]
@@ -13,6 +14,10 @@ while True:
     else:
         print("Wrong answer: "+str(result))
     continue
+
+
+
+
 
 
 
